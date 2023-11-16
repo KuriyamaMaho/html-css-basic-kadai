@@ -2,6 +2,7 @@
   margin: 20px auto;
   width: 800px;
   background-color: #dcc9f4;
+  text-align: center;
 }
 
 .top-child {
@@ -9,7 +10,6 @@
   padding: auto;
   width: 20%;
   background-color: #ffd9df;
-  text-align: center;
 }
 
 #middle {
